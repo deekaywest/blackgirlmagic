@@ -1,0 +1,60 @@
+ <meta charset="utf-8">
+
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+        <style>
+            html{
+                box-sizing:border-box;
+                }
+                *,*:before, *after {box-sizing:inherit;
+                }
+            #menu{ 
+                display:flex; 
+                flex-direction: row; 
+                align-items: center; 
+                flex-wrap:wrap;
+                }
+            section{
+                background: #F0EAD6;
+                Margin: 10px;
+                Padding: 20px;
+                width:240px
+                }
+            .title{
+                background color: #F0EAD6;
+                color: black;
+                line-height: 4em;
+                }
+            h1 {
+                color: black;
+                font-size: xxx-large;
+                text-align: center;
+                font-family: 'Open Sans', sans-serif;
+                background: #F0EAD6;
+                }
+            h2{
+                color: black;
+                font-size: Medium;
+                font-family: 'Open Sans', sans-serif;
+                background: #F0EAD6;
+                }
+            h3{
+                color: black;
+                font-size: Small;
+                font-family: 'Open Sans', sans-serif;
+                background: #F0EAD6;
+                }
+            body{
+                background-color: #F0EAD6;
+                }
+            ul{
+                list-style-type: circle;
+                color: black;
+                font-size: Small;
+                font-family: 'Open Sans', sans-serif;
+                background: #F0EAD6;
+                }
+            img{
+                float:right;
+                margin: 0 12px;
+                }
+        </style>
